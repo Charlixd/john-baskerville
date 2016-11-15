@@ -10,3 +10,6 @@ John Baskerville
 - [Version 04](https://charlixd.github.io/john-baskerville/baskerville4.html)
 - [Version 05](https://charlixd.github.io/john-baskerville/baskerville5.html)
 - [Version 06](https://charlixd.github.io/john-baskerville/baskerville6.html)
+
+History of Type
+---------------
